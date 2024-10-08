@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/9170c696-7629-4c26-b8e5-d735e084fc01
 -CUSA16074_encrypted
 
 
-[**DOWNLOAD**]([https://github.com/Master-s/ArtemisLuaLoader/releases/tag/0.01])
+[**DOWNLOAD**](https://github.com/Master-s/ArtemisLuaLoader/releases/tag/0.01)
 
 Artemis is a cross-platform Visual Novel game engine that utilizes Lua script.
 
