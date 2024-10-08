@@ -1,5 +1,12 @@
 # ArtemisLuaLoader
 
+CUSA27390_decrypted
+CUSA27390_encrypted
+
+CUSA16074_decrypted
+CUSA16074_encrypted
+
+
 
 https://github.com/user-attachments/assets/9170c696-7629-4c26-b8e5-d735e084fc01
 
